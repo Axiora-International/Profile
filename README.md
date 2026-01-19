@@ -13,13 +13,11 @@ that improve reliability, performance, and decision-making.
 
 ## Core Expertise
 
-- Predictive Maintenance for Industrial Machinery
-- Physics-Informed Machine Learning (PIML)
-- Material Strength & Failure Prediction
-- Statistical Modeling & Reliability Analysis
-- Data Analytics for Engineering Systems
-
-
+- Physics-Informed Machine Learning - Predictive Maintenance - Industrial Data Analytics
+- Engineering Analytics - Material Strength & Performance Modeling - Anomaly Detection
+- Time-Series Analysis - Failure Prediction - Sensor Data Analytics
+- Statistical Modeling - Engineering Data Science - Industrial Machine Learning
+ 
 ## Technology Stack
 
 - Statistical Modeling
