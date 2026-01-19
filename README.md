@@ -17,13 +17,6 @@ that improve reliability, performance, and decision-making.
 - Engineering Analytics - Material Strength & Performance Modeling - Anomaly Detection
 - Time-Series Analysis - Failure Prediction - Sensor Data Analytics
 - Statistical Modeling - Engineering Data Science - Industrial Machine Learning
- 
-## Technology Stack
-
-- Statistical Modeling
-- Physics-Informed Feature Engineering
-- EDA
-- Predictive Modeling
 
 ---
 
